@@ -1,0 +1,43 @@
+Arrays in Java
+09:00
+10:40
+
+Recursion in Java
+11:40
+12:00
+
+ Chem
+08:20
+10:30
+
+Discrete Math
+16:20
+17:30
+
+Biology
+12:10
+12:50
+
+Mathematics
+13:00
+13:40
+
+Music Hum
+09:10
+10:35
+
+Chemistry
+06:55
+13:40
+
+Physics
+17:50
+18:20
+
+Comp Sci
+13:10
+14:35
+
+UWriting
+12:20
+15:29

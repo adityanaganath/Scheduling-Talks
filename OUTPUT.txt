@@ -1,0 +1,23 @@
+The optimal schedule is: 
+
+
+
+ Chem
+
+ Starts:	08:20
+ Finish:	10:30
+
+Recursion in Java
+
+ Starts:	11:40
+ Finish:	12:00
+
+Biology
+
+ Starts:	12:10
+ Finish:	12:50
+
+Mathematics
+
+ Starts:	13:00
+ Finish:	13:40
